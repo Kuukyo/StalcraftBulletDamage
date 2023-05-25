@@ -1,4 +1,4 @@
-from src import lib
+import lib
 import math
 
 
