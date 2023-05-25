@@ -1,0 +1,99 @@
+{
+  "FN F2000": {
+    "c_dmg": 30.2,
+    "l_dmg": 24.5,
+    "c_range": 18,
+    "l_range": 60,
+    "max_range": 170,
+    "firerate": 850,
+    "armorpen": 0.08,
+    "hs_multi": 1.25,
+    "spread": 0.34,
+    "v_recoil": 0.24,
+    "h_recoil": 0.11
+  },
+
+  "AEK-971": {
+    "c_dmg": 30.2,
+    "l_dmg": 21.5,
+    "c_range": 10,
+    "l_range": 52,
+    "max_range": 150,
+    "firerate": 900,
+    "armorpen": 0.08,
+    "hs_multi": 1.25,
+    "spread": 0.35,
+    "v_recoil": 0.35,
+    "h_recoil": 0.13
+  },
+
+  "HK G36C": {
+    "c_dmg": 33.5,
+    "l_dmg": 27.5,
+    "c_range": 18,
+    "l_range": 62,
+    "max_range": 170,
+    "firerate": 750,
+    "armorpen": 0.08,
+    "hs_multi": 1.25,
+    "spread": 0.33,
+    "v_recoil": 0.33,
+    "h_recoil": 0.09
+  },
+
+  "ASh-12": {
+    "c_dmg": 50.8,
+    "l_dmg": 34.5,
+    "c_range": 11,
+    "l_range": 66,
+    "max_range": 187,
+    "firerate": 500,
+    "armorpen": 0.25,
+    "hs_multi": 1.25,
+    "spread": 0.44,
+    "v_recoil": 0.8,
+    "h_recoil": 0.25
+  },
+
+  "Worn VSS Vintorez": {
+    "c_dmg": 31.2,
+    "l_dmg": 25.2,
+    "c_range": 30,
+    "l_range": 80,
+    "max_range": 165,
+    "firerate": 600,
+    "armorpen": 0.2,
+    "hs_multi": 1.5,
+    "spread": 0.3,
+    "v_recoil": 0.3,
+    "h_recoil": 0.11
+  },
+
+  "Worn GK G3A1": {
+    "c_dmg": 34.5,
+    "l_dmg": 26.5,
+    "c_range": 18,
+    "l_range": 62,
+    "max_range": 172,
+    "firerate": 600,
+    "armorpen": 0.14,
+    "hs_multi": 1.25,
+    "spread": 0.31,
+    "v_recoil": 0.5,
+    "h_recoil": 0.11
+  },
+
+  "Worn PKP": {
+    "c_dmg": 37.5,
+    "l_dmg": 27.3,
+    "c_range": 12,
+    "l_range": 55,
+    "max_range": 175,
+    "firerate": 650,
+    "armorpen": 0.14,
+    "hs_multi": 1.25,
+    "spread": 0.35,
+    "v_recoil": 0.32,
+    "h_recoil": 0.24
+  }
+}
