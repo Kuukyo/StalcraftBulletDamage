@@ -1,7 +1,7 @@
 {
   "FN F2000": {
-    "c_dmg": 30.2,
-    "l_dmg": 24.5,
+    "c_dmg": 30,
+    "l_dmg": 24.1,
     "c_range": 18,
     "l_range": 60,
     "max_range": 170,
@@ -42,12 +42,12 @@
   },
 
   "ASh-12": {
-    "c_dmg": 50.8,
-    "l_dmg": 34.5,
+    "c_dmg": 57.53719,
+    "l_dmg": 39.075455,
     "c_range": 11,
     "l_range": 66,
     "max_range": 187,
-    "firerate": 500,
+    "firerate": 513,
     "armorpen": 0.25,
     "hs_multi": 1.25,
     "spread": 0.44,
@@ -55,9 +55,9 @@
     "h_recoil": 0.25
   },
 
-  "Worn VSS Vintorez": {
-    "c_dmg": 31.2,
-    "l_dmg": 25.2,
+  "Worn VSS Vintorez AP": {
+    "c_dmg": 28.8,
+    "l_dmg": 28.2,
     "c_range": 30,
     "l_range": 80,
     "max_range": 165,
@@ -69,7 +69,21 @@
     "h_recoil": 0.11
   },
 
-  "Worn GK G3A1": {
+  "Worn VSS Vintorez Standard": {
+    "c_dmg": 28.8,
+    "l_dmg": 28.2,
+    "c_range": 30,
+    "l_range": 80,
+    "max_range": 165,
+    "firerate": 600,
+    "armorpen": 0.1,
+    "hs_multi": 1.5,
+    "spread": 0.3,
+    "v_recoil": 0.3,
+    "h_recoil": 0.11
+  },
+
+  "Worn HK G3A1": {
     "c_dmg": 34.5,
     "l_dmg": 26.5,
     "c_range": 18,
@@ -95,5 +109,103 @@
     "spread": 0.35,
     "v_recoil": 0.32,
     "h_recoil": 0.24
+  },
+
+  "HK G3A1": {
+    "c_dmg": 48.13643,
+    "l_dmg": 37.603046,
+    "c_range": 18,
+    "l_range": 62,
+    "max_range": 180,
+    "firerate": 616,
+    "armorpen": 0.175,
+    "hs_multi": 1.25,
+    "spread": 0.31,
+    "v_recoil": 0.5,
+    "h_recoil": 0.11
+  },
+
+  "FN F2000 Tactical": {
+    "c_dmg": 38.509144,
+    "l_dmg": 31.147102,
+    "c_range": 18,
+    "l_range": 60,
+    "max_range": 175,
+    "firerate": 873,
+    "armorpen": 0.1,
+    "hs_multi": 1.25,
+    "spread": 0.34,
+    "v_recoil": 0.24,
+    "h_recoil": 0.09
+  },
+
+  "A-545": {
+    "c_dmg": 39.075455,
+    "l_dmg": 27.52271,
+    "c_range": 10,
+    "l_range": 52,
+    "max_range": 160,
+    "firerate": 924,
+    "armorpen": 0.1,
+    "hs_multi": 1.25,
+    "spread": 0.35,
+    "v_recoil": 0.31,
+    "h_recoil": 0.11
+  },
+
+  "OTs-14 Groza": {
+    "c_dmg": 40,
+    "l_dmg": 23.6,
+    "c_range": 8,
+    "l_range": 46,
+    "max_range": 140,
+    "firerate": 700,
+    "armorpen": 0.2,
+    "hs_multi": 1.25,
+    "spread": 0.42,
+    "v_recoil": 0.4,
+    "h_recoil": 0.14
+  },
+
+  "VSS Vintorez": {
+    "c_dmg": 36.81021,
+    "l_dmg": 36.2439,
+    "c_range": 30,
+    "l_range": 80,
+    "max_range": 170,
+    "firerate": 600,
+    "armorpen": 0.2,
+    "hs_multi": 1.4,
+    "spread": 0.28,
+    "v_recoil": 0.3,
+    "h_recoil": 0.11
+  },
+
+  "PKP Pecheneg": {
+    "c_dmg": 49.26905,
+    "l_dmg": 36.2439,
+    "c_range": 12,
+    "l_range": 55,
+    "max_range": 180,
+    "firerate": 667,
+    "armorpen": 0.175,
+    "hs_multi": 1.25,
+    "spread": 0.35,
+    "v_recoil": 0.65,
+    "h_recoil": 0.24
+  },
+
+  "SA-58 CTC": {
+    "c_dmg": 53.9128,
+    "l_dmg": 35.11128,
+    "c_range": 14,
+    "l_range": 62,
+    "max_range": 180,
+    "firerate": 636,
+    "armorpen": 0.175,
+    "hs_multi": 1.25,
+    "spread": 0.31,
+    "v_recoil": 0.54,
+    "h_recoil": 0.12
   }
 }
