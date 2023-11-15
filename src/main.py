@@ -4,7 +4,7 @@ import ttk
 import numpy as np
 
 
-guns = ["VSS Vintorez", "PKP Pecheneg", "A-545", "FN F2000 Tactical", "ASh-12", "HK G3A1", "SA-58 CTC"]
+guns = ["VSS Vintorez", "VSK-94", "PKP Pecheneg", "A-545", "FN F2000 Tactical", "ASh-12", "HK G3A1", "SA-58 CTC"]
 bullet_res = 302.29
 vitality = 115
 

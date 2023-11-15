@@ -127,7 +127,7 @@
 
   "FN F2000 Tactical": {
     "c_dmg": 38.509144,
-    "l_dmg": 31.147102,
+    "l_dmg": 30.0139,
     "c_range": 18,
     "l_range": 60,
     "max_range": 175,
@@ -168,8 +168,8 @@
   },
 
   "VSS Vintorez": {
-    "c_dmg": 36.81021,
-    "l_dmg": 36.2439,
+    "c_dmg": 37.3758,
+    "l_dmg": 36.8095,
     "c_range": 30,
     "l_range": 80,
     "max_range": 170,
@@ -179,6 +179,20 @@
     "spread": 0.28,
     "v_recoil": 0.3,
     "h_recoil": 0.11
+  },
+
+  "VSK-94": {
+    "c_dmg": 43.60594,
+    "l_dmg": 40.7736,
+    "c_range": 30,
+    "l_range": 80,
+    "max_range": 180,
+    "firerate": 550,
+    "armorpen": 0.2,
+    "hs_multi": 1.4,
+    "spread": 0.24,
+    "v_recoil": 0.22,
+    "h_recoil": 0.1
   },
 
   "PKP Pecheneg": {
