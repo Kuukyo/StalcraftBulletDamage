@@ -4,9 +4,9 @@ import ttk
 import numpy as np
 
 
-guns = ["A-545", "FN F2000 Tactical", "PKP Pecheneg", "AM-17", "SA-58 CTC", "FAMAS G2"]
-bullet_res = 302.29
-vitality = 115
+guns = ["АК-15", "FAMAS G2"]
+bullet_res = 392.83
+vitality = 120
 
 for name in guns:
     weapon = gun.Gun(name)
@@ -21,7 +21,7 @@ for name in guns:
 
 plt.xlabel("Distance In Meters")
 plt.ylabel("Time To Kill In Seconds")
-plt.title(f"TTK Of Guns +10 against {vitality} Vitality and {bullet_res} Bullet Resistance using AP Ammo")
+plt.title(f"TTK Of Guns +15 against {vitality} Vitality and {bullet_res} Bullet Resistance using AP Ammo")
 
 plt.legend()
 plt.show()
