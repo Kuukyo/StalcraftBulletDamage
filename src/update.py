@@ -18,8 +18,10 @@ def convert(item):
 
 guns = {}
 for root, dirs, files in os.walk("../resources/db/global/items/weapon"):
-    if "_variants" in dirs:
-        dirs.remove("_variants")
+    for folder in dirs:
+        if folder in ["device", "heavy", "melee", "_variants"]:
+            dirs.remove(folder)
+
     for file in files:
         if file.endswith(".json") and file != "_variants":
             gun = lib.load_mem(f"{root}/{file}")

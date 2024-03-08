@@ -1,253 +1,5330 @@
 {
-  "FN F2000": {
-    "c_dmg": 30,
-    "l_dmg": 24.1,
-    "c_range": 18,
-    "l_range": 60,
-    "max_range": 170,
-    "firerate": 850,
-    "armorpen": 0.08,
-    "hs_multi": 1.25,
-    "spread": 0.34,
-    "v_recoil": 0.24,
-    "h_recoil": 0.11
-  },
 
-  "AEK-971": {
-    "c_dmg": 30.2,
-    "l_dmg": 21.5,
-    "c_range": 10,
-    "l_range": 52,
-    "max_range": 150,
-    "firerate": 900,
-    "armorpen": 0.08,
-    "hs_multi": 1.25,
-    "spread": 0.35,
-    "v_recoil": 0.35,
-    "h_recoil": 0.13
-  },
+"Worn HK G3A1": {
 
-  "HK G36C": {
-    "c_dmg": 33.5,
-    "l_dmg": 27.5,
-    "c_range": 18,
-    "l_range": 62,
-    "max_range": 170,
-    "firerate": 750,
-    "armorpen": 0.08,
-    "hs_multi": 1.25,
-    "spread": 0.33,
-    "v_recoil": 0.33,
-    "h_recoil": 0.09
-  },
 
-  "ASh-12": {
-    "c_dmg": 57.53719,
-    "l_dmg": 39.075455,
-    "c_range": 11,
-    "l_range": 66,
-    "max_range": 187,
-    "firerate": 513,
-    "armorpen": 0.25,
-    "hs_multi": 1.25,
-    "spread": 0.44,
-    "v_recoil": 0.8,
-    "h_recoil": 0.25
-  },
+"c_dmg": 43.125,
 
-  "Worn VSS Vintorez AP": {
-    "c_dmg": 28.8,
-    "l_dmg": 28.2,
-    "c_range": 30,
-    "l_range": 80,
-    "max_range": 165,
-    "firerate": 600,
-    "armorpen": 0.2,
-    "hs_multi": 1.5,
-    "spread": 0.3,
-    "v_recoil": 0.3,
-    "h_recoil": 0.11
-  },
 
-  "Worn VSS Vintorez Standard": {
-    "c_dmg": 28.8,
-    "l_dmg": 28.2,
-    "c_range": 30,
-    "l_range": 80,
-    "max_range": 165,
-    "firerate": 600,
-    "armorpen": 0.1,
-    "hs_multi": 1.5,
-    "spread": 0.3,
-    "v_recoil": 0.3,
-    "h_recoil": 0.11
-  },
+"l_dmg": 33.75,
 
-  "Worn HK G3A1": {
-    "c_dmg": 34.5,
-    "l_dmg": 26.5,
-    "c_range": 18,
-    "l_range": 62,
-    "max_range": 172,
-    "firerate": 600,
-    "armorpen": 0.14,
-    "hs_multi": 1.25,
-    "spread": 0.31,
-    "v_recoil": 0.5,
-    "h_recoil": 0.11
-  },
 
-  "Worn PKP": {
-    "c_dmg": 37.5,
-    "l_dmg": 27.3,
-    "c_range": 12,
-    "l_range": 55,
-    "max_range": 175,
-    "firerate": 650,
-    "armorpen": 0.14,
-    "hs_multi": 1.25,
-    "spread": 0.35,
-    "v_recoil": 0.32,
-    "h_recoil": 0.24
-  },
+"c_range": 18.0,
 
-  "HK G3A1": {
-    "c_dmg": 48.13643,
-    "l_dmg": 37.603046,
-    "c_range": 18,
-    "l_range": 62,
-    "max_range": 180,
-    "firerate": 616,
-    "armorpen": 0.175,
-    "hs_multi": 1.25,
-    "spread": 0.31,
-    "v_recoil": 0.5,
-    "h_recoil": 0.11
-  },
 
-  "FN F2000 Tactical": {
-    "c_dmg": 38.509144,
-    "l_dmg": 30.01448,
-    "c_range": 18,
-    "l_range": 60,
-    "max_range": 175,
-    "firerate": 873,
-    "armorpen": 0.1,
-    "hs_multi": 1.25,
-    "spread": 0.34,
-    "v_recoil": 0.24,
-    "h_recoil": 0.09
-  },
+"l_range": 62.0,
 
-  "A-545": {
-    "c_dmg": 39.075455,
-    "l_dmg": 27.52271,
-    "c_range": 10,
-    "l_range": 52,
-    "max_range": 160,
-    "firerate": 924,
-    "armorpen": 0.1,
-    "hs_multi": 1.25,
-    "spread": 0.35,
-    "v_recoil": 0.31,
-    "h_recoil": 0.11
-  },
 
-  "OTs-14 Groza": {
-    "c_dmg": 40,
-    "l_dmg": 23.6,
-    "c_range": 8,
-    "l_range": 46,
-    "max_range": 140,
-    "firerate": 700,
-    "armorpen": 0.2,
-    "hs_multi": 1.25,
-    "spread": 0.42,
-    "v_recoil": 0.4,
-    "h_recoil": 0.14
-  },
+"max_range": 172.0,
 
-  "VSS Vintorez": {
-    "c_dmg": 37.376522,
-    "l_dmg": 36.81021,
-    "c_range": 30,
-    "l_range": 80,
-    "max_range": 170,
-    "firerate": 600,
-    "armorpen": 0.2,
-    "hs_multi": 1.4,
-    "spread": 0.28,
-    "v_recoil": 0.3,
-    "h_recoil": 0.11
-  },
 
-  "VSK-94": {
-    "c_dmg": 43.60594,
-    "l_dmg": 40.7736,
-    "c_range": 30,
-    "l_range": 80,
-    "max_range": 180,
-    "firerate": 550,
-    "armorpen": 0.2,
-    "hs_multi": 1.4,
-    "spread": 0.24,
-    "v_recoil": 0.22,
-    "h_recoil": 0.1
-  },
+"firerate": 600.0,
 
-  "PKP Pecheneg": {
-    "c_dmg": 50.401672,
-    "l_dmg": 36.2439,
-    "c_range": 12,
-    "l_range": 55,
-    "max_range": 180,
-    "firerate": 667,
-    "armorpen": 0.175,
-    "hs_multi": 1.25,
-    "spread": 0.35,
-    "v_recoil": 0.65,
-    "h_recoil": 0.24
-  },
 
-  "SA-58 CTC": {
-    "c_dmg": 53.9128,
-    "l_dmg": 35.11128,
-    "c_range": 14,
-    "l_range": 62,
-    "max_range": 180,
-    "firerate": 636,
-    "armorpen": 0.175,
-    "hs_multi": 1.25,
-    "spread": 0.31,
-    "v_recoil": 0.54,
-    "h_recoil": 0.12
-  },
+"armorpen": 0.175,
 
-  "FAMAS G2": {
-    "c_dmg": 36.017376,
-    "l_dmg": 24.91768,
-    "c_range": 12,
-    "l_range": 52,
-    "max_range": 160,
-    "firerate": 1027,
-    "armorpen": 0.1,
-    "hs_multi": 1.25,
-    "spread": 0.31,
-    "v_recoil": 0.54,
-    "h_recoil": 0.12
-  },
 
-  "AM-17": {
-    "c_dmg": 49.26905,
-    "l_dmg": 33.978657,
-    "c_range": 12,
-    "l_range": 54,
-    "max_range": 160,
-    "firerate": 719,
-    "armorpen": 0.1,
-    "hs_multi": 1.25,
-    "spread": 0.45,
-    "v_recoil": 0.47,
-    "h_recoil": 0.16
-  }
+"hs_multi": 1.25,
+
+
+"spread": 0.4,
+
+
+"v_recoil": 0.514,
+
+
+"h_recoil": 0.155
+
+},
+
+"Kbk wz. 88 Tantal": {
+
+
+"c_dmg": 30.625,
+
+
+"l_dmg": 21.25,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 135.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.42,
+
+
+"h_recoil": 0.2
+
+},
+
+"AKS-74": {
+
+
+"c_dmg": 28.125,
+
+
+"l_dmg": 20.0,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 130.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.45,
+
+
+"h_recoil": 0.2
+
+},
+
+"АК-203": {
+
+
+"c_dmg": 46.875,
+
+
+"l_dmg": 31.875,
+
+
+"c_range": 10.0,
+
+
+"l_range": 56.0,
+
+
+"max_range": 155.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.5,
+
+
+"h_recoil": 0.2
+
+},
+
+"TKB-0146M": {
+
+
+"c_dmg": 38.875,
+
+
+"l_dmg": 27.5,
+
+
+"c_range": 10.0,
+
+
+"l_range": 57.0,
+
+
+"max_range": 145.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.42,
+
+
+"h_recoil": 0.12
+
+},
+
+"M4A1 CQC": {
+
+
+"c_dmg": 37.5,
+
+
+"l_dmg": 25.75,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 145.0,
+
+
+"firerate": 750.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.35,
+
+
+"h_recoil": 0.15
+
+},
+
+"HK G3A1": {
+
+
+"c_dmg": 51.0,
+
+
+"l_dmg": 39.75,
+
+
+"c_range": 18.0,
+
+
+"l_range": 62.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.4,
+
+
+"v_recoil": 0.514,
+
+
+"h_recoil": 0.155
+
+},
+
+"OTs-14 Groza": {
+
+
+"c_dmg": 46.875,
+
+
+"l_dmg": 31.875,
+
+
+"c_range": 10.0,
+
+
+"l_range": 58.0,
+
+
+"max_range": 140.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.2,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.17
+
+},
+
+"AKM": {
+
+
+"c_dmg": 38.75,
+
+
+"l_dmg": 27.5,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 135.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.25
+
+},
+
+"AKS-74U": {
+
+
+"c_dmg": 21.25,
+
+
+"l_dmg": 14.375,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 120.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.5,
+
+
+"h_recoil": 0.2
+
+},
+
+"АК-15": {
+
+
+"c_dmg": 60.0,
+
+
+"l_dmg": 45.0,
+
+
+"c_range": 10.0,
+
+
+"l_range": 56.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.57,
+
+
+"h_recoil": 0.22
+
+},
+
+"SA-58 CTC": {
+
+
+"c_dmg": 59.5,
+
+
+"l_dmg": 38.75,
+
+
+"c_range": 14.0,
+
+
+"l_range": 62.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 620.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.4,
+
+
+"v_recoil": 0.55,
+
+
+"h_recoil": 0.18
+
+},
+
+"AMB-17": {
+
+
+"c_dmg": 55.0,
+
+
+"l_dmg": 32.5,
+
+
+"c_range": 8.0,
+
+
+"l_range": 46.0,
+
+
+"max_range": 140.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.2,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.34,
+
+
+"h_recoil": 0.1
+
+},
+
+"AK-103": {
+
+
+"c_dmg": 42.5,
+
+
+"l_dmg": 28.5,
+
+
+"c_range": 10.0,
+
+
+"l_range": 56.0,
+
+
+"max_range": 155.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.56,
+
+
+"h_recoil": 0.22
+
+},
+
+"ALK-22 Dragonfly": {
+
+
+"c_dmg": 36.875,
+
+
+"l_dmg": 24.375,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 155.0,
+
+
+"firerate": 750.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.35,
+
+
+"h_recoil": 0.25
+
+},
+
+"AKM Tishina": {
+
+
+"c_dmg": 45.625,
+
+
+"l_dmg": 32.5,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 135.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.3428925,
+
+
+"v_recoil": 0.490545,
+
+
+"h_recoil": 0.206128
+
+},
+
+"АМ-17": {
+
+
+"c_dmg": 54.375,
+
+
+"l_dmg": 37.5,
+
+
+"c_range": 12.0,
+
+
+"l_range": 54.0,
+
+
+"max_range": 160.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.47,
+
+
+"h_recoil": 0.16
+
+},
+
+"L85A1": {
+
+
+"c_dmg": 38.75,
+
+
+"l_dmg": 33.75,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 135.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.15
+
+},
+
+"AEK-971": {
+
+
+"c_dmg": 37.75,
+
+
+"l_dmg": 26.875,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.36,
+
+
+"h_recoil": 0.15
+
+},
+
+"Worn L85A1": {
+
+
+"c_dmg": 32.75,
+
+
+"l_dmg": 28.375,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 125.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.15
+
+},
+
+"M16A3": {
+
+
+"c_dmg": 25.0,
+
+
+"l_dmg": 19.625,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 160.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.42,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.13
+
+},
+
+"FAMAS G2": {
+
+
+"c_dmg": 39.75,
+
+
+"l_dmg": 27.5,
+
+
+"c_range": 12.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 160.0,
+
+
+"firerate": 1000.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.11
+
+},
+
+"FN F2000 Tactical": {
+
+
+"c_dmg": 42.5,
+
+
+"l_dmg": 33.125,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 175.0,
+
+
+"firerate": 850.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.14
+
+},
+
+"Cleaner’s AKS": {
+
+
+"c_dmg": 28.125,
+
+
+"l_dmg": 20.0,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 130.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.45,
+
+
+"h_recoil": 0.2
+
+},
+
+"ASh-12": {
+
+
+"c_dmg": 68.75,
+
+
+"l_dmg": 46.75,
+
+
+"c_range": 10.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 500.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.44,
+
+
+"v_recoil": 0.8,
+
+
+"h_recoil": 0.35
+
+},
+
+"M16A1": {
+
+
+"c_dmg": 25.0,
+
+
+"l_dmg": 20.625,
+
+
+"c_range": 18.0,
+
+
+"l_range": 62.0,
+
+
+"max_range": 140.0,
+
+
+"firerate": 550.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.42,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.1
+
+},
+
+"M4 LB": {
+
+
+"c_dmg": 35.75,
+
+
+"l_dmg": 31.25,
+
+
+"c_range": 17.0,
+
+
+"l_range": 59.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 640.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.38,
+
+
+"h_recoil": 0.15
+
+},
+
+"Worn SIG SG 550": {
+
+
+"c_dmg": 33.75,
+
+
+"l_dmg": 26.0,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 155.0,
+
+
+"firerate": 680.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.39,
+
+
+"h_recoil": 0.14
+
+},
+
+"M16A2": {
+
+
+"c_dmg": 28.125,
+
+
+"l_dmg": 23.5,
+
+
+"c_range": 18.0,
+
+
+"l_range": 62.0,
+
+
+"max_range": 140.0,
+
+
+"firerate": 550.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.42,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.1
+
+},
+
+"AN-94 Abakan": {
+
+
+"c_dmg": 33.75,
+
+
+"l_dmg": 23.125,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.38,
+
+
+"h_recoil": 0.17
+
+},
+
+"FN F2000": {
+
+
+"c_dmg": 37.5,
+
+
+"l_dmg": 29.125,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 850.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.14
+
+},
+
+"Rapier": {
+
+
+"c_dmg": 45.0,
+
+
+"l_dmg": 36.25,
+
+
+"c_range": 18.0,
+
+
+"l_range": 62.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 500.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.45,
+
+
+"h_recoil": 0.2
+
+},
+
+"AN-94M Abakan": {
+
+
+"c_dmg": 35.75,
+
+
+"l_dmg": 24.375,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.38,
+
+
+"h_recoil": 0.17
+
+},
+
+"DSA-58": {
+
+
+"c_dmg": 55.0,
+
+
+"l_dmg": 35.625,
+
+
+"c_range": 15.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 620.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.4,
+
+
+"v_recoil": 0.53,
+
+
+"h_recoil": 0.18
+
+},
+
+"AK-74М": {
+
+
+"c_dmg": 29.375,
+
+
+"l_dmg": 22.5,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 130.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.45,
+
+
+"h_recoil": 0.2
+
+},
+
+"A-545": {
+
+
+"c_dmg": 43.125,
+
+
+"l_dmg": 30.375,
+
+
+"c_range": 10.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 160.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.15
+
+},
+
+"SIG SG 550": {
+
+
+"c_dmg": 39.375,
+
+
+"l_dmg": 32.5,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.43,
+
+
+"v_recoil": 0.39,
+
+
+"h_recoil": 0.14
+
+},
+
+"FN SCAR-L": {
+
+
+"c_dmg": 37.5,
+
+
+"l_dmg": 26.25,
+
+
+"c_range": 12.0,
+
+
+"l_range": 56.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 625.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.46,
+
+
+"v_recoil": 0.34,
+
+
+"h_recoil": 0.14
+
+},
+
+"AS Val": {
+
+
+"c_dmg": 48.125,
+
+
+"l_dmg": 26.875,
+
+
+"c_range": 8.0,
+
+
+"l_range": 42.0,
+
+
+"max_range": 130.0,
+
+
+"firerate": 750.0,
+
+
+"armorpen": 0.2,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.3,
+
+
+"h_recoil": 0.1
+
+},
+
+"HK G36C": {
+
+
+"c_dmg": 42.5,
+
+
+"l_dmg": 34.75,
+
+
+"c_range": 18.0,
+
+
+"l_range": 62.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 750.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.42,
+
+
+"v_recoil": 0.34,
+
+
+"h_recoil": 0.12
+
+},
+
+"M4A1": {
+
+
+"c_dmg": 31.875,
+
+
+"l_dmg": 21.875,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 145.0,
+
+
+"firerate": 750.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.35,
+
+
+"h_recoil": 0.15
+
+},
+
+"DP": {
+
+
+"c_dmg": 31.875,
+
+
+"l_dmg": 23.75,
+
+
+"c_range": 10.0,
+
+
+"l_range": 54.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 550.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 1.0,
+
+
+"h_recoil": 0.4
+
+},
+
+"Worn PKP": {
+
+
+"c_dmg": 49.125,
+
+
+"l_dmg": 35.375,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 175.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.24
+
+},
+
+"MG 42": {
+
+
+"c_dmg": 42.5,
+
+
+"l_dmg": 30.0,
+
+
+"c_range": 10.0,
+
+
+"l_range": 42.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.7,
+
+
+"h_recoil": 0.3
+
+},
+
+"RPK-74": {
+
+
+"c_dmg": 43.875,
+
+
+"l_dmg": 32.5,
+
+
+"c_range": 12.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 150.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.55,
+
+
+"h_recoil": 0.2
+
+},
+
+"L86A1": {
+
+
+"c_dmg": 40.25,
+
+
+"l_dmg": 30.5,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.15
+
+},
+
+"Worn L86A1": {
+
+
+"c_dmg": 33.875,
+
+
+"l_dmg": 25.75,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.15
+
+},
+
+"PKP Pecheneg": {
+
+
+"c_dmg": 55.625,
+
+
+"l_dmg": 40.0,
+
+
+"c_range": 12.0,
+
+
+"l_range": 55.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.24
+
+},
+
+"RPD": {
+
+
+"c_dmg": 41.625,
+
+
+"l_dmg": 30.375,
+
+
+"c_range": 12.0,
+
+
+"l_range": 52.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.64,
+
+
+"h_recoil": 0.25
+
+},
+
+"Fort-12": {
+
+
+"c_dmg": 56.875,
+
+
+"l_dmg": 39.0,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 58.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.35,
+
+
+"h_recoil": 0.3
+
+},
+
+"PM": {
+
+
+"c_dmg": 34.75,
+
+
+"l_dmg": 23.75,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 56.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.4
+
+},
+
+"Eternal Novice’s PM": {
+
+
+"c_dmg": 38.75,
+
+
+"l_dmg": 23.75,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 56.0,
+
+
+"firerate": 450.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.4
+
+},
+
+"OTs-33 Pernach": {
+
+
+"c_dmg": 53.75,
+
+
+"l_dmg": 32.5,
+
+
+"c_range": 6.0,
+
+
+"l_range": 34.0,
+
+
+"max_range": 60.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.25
+
+},
+
+"Glock 17": {
+
+
+"c_dmg": 78.125,
+
+
+"l_dmg": 45.5,
+
+
+"c_range": 5.0,
+
+
+"l_range": 32.0,
+
+
+"max_range": 64.0,
+
+
+"firerate": 450.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.25,
+
+
+"h_recoil": 0.25
+
+},
+
+"Mauser C96": {
+
+
+"c_dmg": 49.375,
+
+
+"l_dmg": 35.375,
+
+
+"c_range": 8.0,
+
+
+"l_range": 40.0,
+
+
+"max_range": 65.0,
+
+
+"firerate": 385.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.3
+
+},
+
+"PB": {
+
+
+"c_dmg": 36.25,
+
+
+"l_dmg": 24.875,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 56.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.5,
+
+
+"h_recoil": 0.4
+
+},
+
+"TT": {
+
+
+"c_dmg": 51.25,
+
+
+"l_dmg": 35.125,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 58.0,
+
+
+"firerate": 300.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.7,
+
+
+"h_recoil": 0.4
+
+},
+
+"Walther P99": {
+
+
+"c_dmg": 54.0,
+
+
+"l_dmg": 33.125,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 58.0,
+
+
+"firerate": 430.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.25,
+
+
+"h_recoil": 0.2
+
+},
+
+"Beretta 92FS": {
+
+
+"c_dmg": 68.25,
+
+
+"l_dmg": 44.375,
+
+
+"c_range": 6.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 60.0,
+
+
+"firerate": 415.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.3,
+
+
+"h_recoil": 0.3
+
+},
+
+"Dream": {
+
+
+"c_dmg": 55.0,
+
+
+"l_dmg": 36.0,
+
+
+"c_range": 6.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 62.0,
+
+
+"firerate": 420.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.35
+
+},
+
+"Worn Colt Python": {
+
+
+"c_dmg": 155.25,
+
+
+"l_dmg": 106.375,
+
+
+"c_range": 5.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 150.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.9,
+
+
+"h_recoil": 0.5
+
+},
+
+"Colt Python": {
+
+
+"c_dmg": 185.0,
+
+
+"l_dmg": 126.75,
+
+
+"c_range": 5.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 150.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.9,
+
+
+"h_recoil": 0.5
+
+},
+
+"Desert Eagle Mark VII": {
+
+
+"c_dmg": 128.75,
+
+
+"l_dmg": 76.375,
+
+
+"c_range": 6.0,
+
+
+"l_range": 25.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 270.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.7,
+
+
+"h_recoil": 0.5
+
+},
+
+"RSh-12": {
+
+
+"c_dmg": 187.5,
+
+
+"l_dmg": 127.5,
+
+
+"c_range": 5.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 120.0,
+
+
+"firerate": 150.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.9,
+
+
+"h_recoil": 0.5
+
+},
+
+"Sig Sauer P320": {
+
+
+"c_dmg": 89.375,
+
+
+"l_dmg": 63.75,
+
+
+"c_range": 8.0,
+
+
+"l_range": 40.0,
+
+
+"max_range": 62.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.38,
+
+
+"h_recoil": 0.24
+
+},
+
+"МР-412": {
+
+
+"c_dmg": 161.25,
+
+
+"l_dmg": 100.0,
+
+
+"c_range": 4.0,
+
+
+"l_range": 16.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 160.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.75,
+
+
+"h_recoil": 0.5
+
+},
+
+"Bee": {
+
+
+"c_dmg": 48.75,
+
+
+"l_dmg": 28.75,
+
+
+"c_range": 6.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 58.0,
+
+
+"firerate": 460.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.25,
+
+
+"h_recoil": 0.2
+
+},
+
+"SR-1 Gyurza": {
+
+
+"c_dmg": 72.5,
+
+
+"l_dmg": 48.75,
+
+
+"c_range": 8.0,
+
+
+"l_range": 40.0,
+
+
+"max_range": 62.0,
+
+
+"firerate": 390.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.35,
+
+
+"h_recoil": 0.25
+
+},
+
+"Beretta 93R": {
+
+
+"c_dmg": 56.25,
+
+
+"l_dmg": 36.875,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 58.0,
+
+
+"firerate": 450.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.3,
+
+
+"h_recoil": 0.25
+
+},
+
+"Ingram MAC-10": {
+
+
+"c_dmg": 27.5,
+
+
+"l_dmg": 14.0,
+
+
+"c_range": 5.0,
+
+
+"l_range": 32.0,
+
+
+"max_range": 100.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.38,
+
+
+"h_recoil": 0.22
+
+},
+
+"Desert Eagle Mark XIX": {
+
+
+"c_dmg": 146.875,
+
+
+"l_dmg": 86.875,
+
+
+"c_range": 6.0,
+
+
+"l_range": 25.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 270.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.7,
+
+
+"h_recoil": 0.5
+
+},
+
+"R-92": {
+
+
+"c_dmg": 78.75,
+
+
+"l_dmg": 54.0,
+
+
+"c_range": 5.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 60.0,
+
+
+"firerate": 150.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.4
+
+},
+
+"SW1911": {
+
+
+"c_dmg": 88.5,
+
+
+"l_dmg": 50.75,
+
+
+"c_range": 4.0,
+
+
+"l_range": 20.0,
+
+
+"max_range": 65.0,
+
+
+"firerate": 350.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.45,
+
+
+"h_recoil": 0.4
+
+},
+
+"Browning Hi-Power": {
+
+
+"c_dmg": 60.25,
+
+
+"l_dmg": 38.375,
+
+
+"c_range": 6.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 62.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.35
+
+},
+
+"PMM": {
+
+
+"c_dmg": 37.5,
+
+
+"l_dmg": 22.5,
+
+
+"c_range": 5.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 58.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.6,
+
+
+"v_recoil": 0.52,
+
+
+"h_recoil": 0.4
+
+},
+
+"BM-16": {
+
+
+"c_dmg": 130.0,
+
+
+"l_dmg": 58.5,
+
+
+"c_range": 4.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 60.0,
+
+
+"firerate": 240.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 1.5,
+
+
+"v_recoil": 8.0,
+
+
+"h_recoil": 4.0
+
+},
+
+"Protecta": {
+
+
+"c_dmg": 212.5,
+
+
+"l_dmg": 97.75,
+
+
+"c_range": 4.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 74.0,
+
+
+"firerate": 120.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 4.0,
+
+
+"h_recoil": 0.75
+
+},
+
+"Shorty 590": {
+
+
+"c_dmg": 145.0,
+
+
+"l_dmg": 65.25,
+
+
+"c_range": 3.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 40.0,
+
+
+"firerate": 85.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 5.0,
+
+
+"h_recoil": 1.0
+
+},
+
+"Saiga-12K": {
+
+
+"c_dmg": 107.5,
+
+
+"l_dmg": 68.875,
+
+
+"c_range": 3.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 240.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.2,
+
+
+"v_recoil": 3.2,
+
+
+"h_recoil": 1.0
+
+},
+
+"Grizzly 8.5": {
+
+
+"c_dmg": 192.5,
+
+
+"l_dmg": 86.625,
+
+
+"c_range": 3.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 60.0,
+
+
+"firerate": 85.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 5.0,
+
+
+"h_recoil": 1.5
+
+},
+
+"BM-16 Sawed-Off": {
+
+
+"c_dmg": 125.0,
+
+
+"l_dmg": 56.25,
+
+
+"c_range": 3.0,
+
+
+"l_range": 12.0,
+
+
+"max_range": 40.0,
+
+
+"firerate": 240.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 1.5,
+
+
+"v_recoil": 8.0,
+
+
+"h_recoil": 4.0
+
+},
+
+"TOZ-34": {
+
+
+"c_dmg": 150.0,
+
+
+"l_dmg": 67.5,
+
+
+"c_range": 4.0,
+
+
+"l_range": 20.0,
+
+
+"max_range": 80.0,
+
+
+"firerate": 240.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 1.5,
+
+
+"v_recoil": 8.0,
+
+
+"h_recoil": 2.0
+
+},
+
+"OTs-62": {
+
+
+"c_dmg": 137.5,
+
+
+"l_dmg": 88.0,
+
+
+"c_range": 3.0,
+
+
+"l_range": 14.0,
+
+
+"max_range": 50.0,
+
+
+"firerate": 150.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.2,
+
+
+"v_recoil": 7.0,
+
+
+"h_recoil": 1.0
+
+},
+
+"M1014 Breacher": {
+
+
+"c_dmg": 158.75,
+
+
+"l_dmg": 72.5,
+
+
+"c_range": 3.0,
+
+
+"l_range": 15.0,
+
+
+"max_range": 55.0,
+
+
+"firerate": 140.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 6.5,
+
+
+"h_recoil": 1.5
+
+},
+
+"MTs255": {
+
+
+"c_dmg": 131.25,
+
+
+"l_dmg": 84.0,
+
+
+"c_range": 4.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 85.0,
+
+
+"firerate": 250.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 1.5,
+
+
+"v_recoil": 5.0,
+
+
+"h_recoil": 1.0
+
+},
+
+"RMB-93": {
+
+
+"c_dmg": 187.5,
+
+
+"l_dmg": 84.375,
+
+
+"c_range": 3.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 72.0,
+
+
+"firerate": 80.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 4.0,
+
+
+"h_recoil": 1.5
+
+},
+
+"МР-153": {
+
+
+"c_dmg": 175.0,
+
+
+"l_dmg": 80.5,
+
+
+"c_range": 4.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 72.0,
+
+
+"firerate": 120.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 5.0,
+
+
+"h_recoil": 1.0
+
+},
+
+"МР-133": {
+
+
+"c_dmg": 165.0,
+
+
+"l_dmg": 74.25,
+
+
+"c_range": 4.0,
+
+
+"l_range": 18.0,
+
+
+"max_range": 72.0,
+
+
+"firerate": 80.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 5.0,
+
+
+"h_recoil": 1.0
+
+},
+
+"Cobray Terminator": {
+
+
+"c_dmg": 150.0,
+
+
+"l_dmg": 67.5,
+
+
+"c_range": 3.0,
+
+
+"l_range": 12.0,
+
+
+"max_range": 40.0,
+
+
+"firerate": 150.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 12.0,
+
+
+"h_recoil": 2.0
+
+},
+
+"Mossberg 590A1": {
+
+
+"c_dmg": 161.25,
+
+
+"l_dmg": 72.625,
+
+
+"c_range": 3.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 70.0,
+
+
+"firerate": 85.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 7.0,
+
+
+"h_recoil": 2.0
+
+},
+
+"Franchi SPAS-12": {
+
+
+"c_dmg": 162.5,
+
+
+"l_dmg": 74.75,
+
+
+"c_range": 3.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 65.0,
+
+
+"firerate": 120.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 2.0,
+
+
+"v_recoil": 4.5,
+
+
+"h_recoil": 1.0
+
+},
+
+"SКТ-40": {
+
+
+"c_dmg": 49.375,
+
+
+"l_dmg": 47.75,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 162.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.81,
+
+
+"h_recoil": 0.35
+
+},
+
+"Mosin’s Carbine": {
+
+
+"c_dmg": 67.5,
+
+
+"l_dmg": 67.5,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 2.0,
+
+
+"h_recoil": 0.7
+
+},
+
+"CR-380": {
+
+
+"c_dmg": 112.5,
+
+
+"l_dmg": 112.5,
+
+
+"c_range": 250.0,
+
+
+"l_range": 250.0,
+
+
+"max_range": 250.0,
+
+
+"firerate": 170.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.04,
+
+
+"v_recoil": 1.4,
+
+
+"h_recoil": 0.2
+
+},
+
+"Steyr Scout": {
+
+
+"c_dmg": 71.25,
+
+
+"l_dmg": 71.25,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 175.0,
+
+
+"firerate": 72.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.09,
+
+
+"v_recoil": 1.8,
+
+
+"h_recoil": 0.4
+
+},
+
+"Worn SVD": {
+
+
+"c_dmg": 78.875,
+
+
+"l_dmg": 76.25,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 175.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.81,
+
+
+"h_recoil": 0.37
+
+},
+
+"Worn SVT-40": {
+
+
+"c_dmg": 57.5,
+
+
+"l_dmg": 55.5,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 167.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.81,
+
+
+"h_recoil": 0.35
+
+},
+
+"SVU": {
+
+
+"c_dmg": 96.25,
+
+
+"l_dmg": 93.75,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 190.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.83,
+
+
+"h_recoil": 0.33
+
+},
+
+"SOK-94": {
+
+
+"c_dmg": 43.125,
+
+
+"l_dmg": 40.625,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 172.0,
+
+
+"firerate": 360.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.25
+
+},
+
+"M40A5": {
+
+
+"c_dmg": 115.0,
+
+
+"l_dmg": 115.0,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 190.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.07,
+
+
+"v_recoil": 2.4,
+
+
+"h_recoil": 0.6
+
+},
+
+"MTs-116M": {
+
+
+"c_dmg": 103.75,
+
+
+"l_dmg": 103.75,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 200.0,
+
+
+"firerate": 72.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.12,
+
+
+"v_recoil": 2.0,
+
+
+"h_recoil": 0.6
+
+},
+
+"Worn SKS": {
+
+
+"c_dmg": 31.25,
+
+
+"l_dmg": 30.5,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 160.0,
+
+
+"firerate": 300.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.7,
+
+
+"h_recoil": 0.2
+
+},
+
+"Mosin’s Rifle": {
+
+
+"c_dmg": 80.0,
+
+
+"l_dmg": 80.0,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.09,
+
+
+"v_recoil": 2.4,
+
+
+"h_recoil": 0.7
+
+},
+
+"SKS": {
+
+
+"c_dmg": 39.375,
+
+
+"l_dmg": 38.5,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 165.0,
+
+
+"firerate": 300.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.7,
+
+
+"h_recoil": 0.2
+
+},
+
+"SVD": {
+
+
+"c_dmg": 85.25,
+
+
+"l_dmg": 82.5,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.81,
+
+
+"h_recoil": 0.37
+
+},
+
+"Winchester M70": {
+
+
+"c_dmg": 93.75,
+
+
+"l_dmg": 93.75,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.08,
+
+
+"v_recoil": 2.3,
+
+
+"h_recoil": 0.6
+
+},
+
+"FG-42 Whip": {
+
+
+"c_dmg": 38.75,
+
+
+"l_dmg": 38.75,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 180.0,
+
+
+"firerate": 500.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.56,
+
+
+"h_recoil": 0.15
+
+},
+
+"Worn M1A": {
+
+
+"c_dmg": 40.0,
+
+
+"l_dmg": 34.25,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.18
+
+},
+
+"Gauss Rifle": {
+
+
+"c_dmg": 177.5,
+
+
+"l_dmg": 177.5,
+
+
+"c_range": 200.0,
+
+
+"l_range": 200.0,
+
+
+"max_range": 250.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.02,
+
+
+"v_recoil": 2.0,
+
+
+"h_recoil": 0.2
+
+},
+
+"VSS Vintorez": {
+
+
+"c_dmg": 40.0,
+
+
+"l_dmg": 39.0,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.2,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.2,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.12
+
+},
+
+"Worn L96A1": {
+
+
+"c_dmg": 130.0,
+
+
+"l_dmg": 130.0,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 210.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.04,
+
+
+"v_recoil": 2.2,
+
+
+"h_recoil": 0.7
+
+},
+
+"MTs-558": {
+
+
+"c_dmg": 125.0,
+
+
+"l_dmg": 125.0,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 210.0,
+
+
+"firerate": 72.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 1.5,
+
+
+"h_recoil": 0.6
+
+},
+
+"Avalanche": {
+
+
+"c_dmg": 93.75,
+
+
+"l_dmg": 92.5,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 210.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.9,
+
+
+"h_recoil": 0.3
+
+},
+
+"Karbach OTL-03": {
+
+
+"c_dmg": 118.75,
+
+
+"l_dmg": 131.25,
+
+
+"c_range": 50.0,
+
+
+"l_range": 100.0,
+
+
+"max_range": 210.0,
+
+
+"firerate": 72.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 1.5,
+
+
+"h_recoil": 0.6
+
+},
+
+"McMillan CS5": {
+
+
+"c_dmg": 162.5,
+
+
+"l_dmg": 162.5,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 230.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.03,
+
+
+"v_recoil": 1.6,
+
+
+"h_recoil": 0.4
+
+},
+
+"AVT-40": {
+
+
+"c_dmg": 60.0,
+
+
+"l_dmg": 47.5,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 300.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.81,
+
+
+"h_recoil": 0.35
+
+},
+
+"SVT-40": {
+
+
+"c_dmg": 64.5,
+
+
+"l_dmg": 62.25,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.81,
+
+
+"h_recoil": 0.35
+
+},
+
+"Alpine TPG-1": {
+
+
+"c_dmg": 125.0,
+
+
+"l_dmg": 125.0,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 200.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.04,
+
+
+"v_recoil": 2.2,
+
+
+"h_recoil": 0.7
+
+},
+
+"L96A1": {
+
+
+"c_dmg": 167.5,
+
+
+"l_dmg": 167.5,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 230.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.03,
+
+
+"v_recoil": 2.2,
+
+
+"h_recoil": 0.7
+
+},
+
+"Worn M40A5": {
+
+
+"c_dmg": 105.0,
+
+
+"l_dmg": 105.0,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 185.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.08,
+
+
+"v_recoil": 2.4,
+
+
+"h_recoil": 0.6
+
+},
+
+"WA2000": {
+
+
+"c_dmg": 118.125,
+
+
+"l_dmg": 115.0,
+
+
+"c_range": 30.0,
+
+
+"l_range": 90.0,
+
+
+"max_range": 220.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.1,
+
+
+"v_recoil": 0.88,
+
+
+"h_recoil": 0.35
+
+},
+
+"Worn Winchester M70": {
+
+
+"c_dmg": 86.25,
+
+
+"l_dmg": 86.25,
+
+
+"c_range": 20.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 175.0,
+
+
+"firerate": 34.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.5,
+
+
+"spread": 0.09,
+
+
+"v_recoil": 2.3,
+
+
+"h_recoil": 0.6
+
+},
+
+"VSS-M \"Vintorez\"": {
+
+
+"c_dmg": 45.25,
+
+
+"l_dmg": 44.25,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": 0.2,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.2,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.12
+
+},
+
+"M1A FA": {
+
+
+"c_dmg": 46.875,
+
+
+"l_dmg": 40.25,
+
+
+"c_range": 30.0,
+
+
+"l_range": 80.0,
+
+
+"max_range": 175.0,
+
+
+"firerate": 400.0,
+
+
+"armorpen": 0.175,
+
+
+"hs_multi": 1.4,
+
+
+"spread": 0.15,
+
+
+"v_recoil": 0.6,
+
+
+"h_recoil": 0.18
+
+},
+
+"Viper": {
+
+
+"c_dmg": 34.375,
+
+
+"l_dmg": 21.625,
+
+
+"c_range": 8.0,
+
+
+"l_range": 44.0,
+
+
+"max_range": 115.0,
+
+
+"firerate": 680.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.48,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.14
+
+},
+
+"IMI Mini Uzi": {
+
+
+"c_dmg": 24.25,
+
+
+"l_dmg": 12.625,
+
+
+"c_range": 5.0,
+
+
+"l_range": 32.0,
+
+
+"max_range": 99.0,
+
+
+"firerate": 950.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.42,
+
+
+"h_recoil": 0.17
+
+},
+
+"HK MP5": {
+
+
+"c_dmg": 26.25,
+
+
+"l_dmg": 14.25,
+
+
+"c_range": 8.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 106.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.26,
+
+
+"h_recoil": 0.12
+
+},
+
+"Scorpion EVO III": {
+
+
+"c_dmg": 42.5,
+
+
+"l_dmg": 23.125,
+
+
+"c_range": 8.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 110.0,
+
+
+"firerate": 1100.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.16,
+
+
+"h_recoil": 0.06
+
+},
+
+"SIG MPX": {
+
+
+"c_dmg": 46.25,
+
+
+"l_dmg": 25.625,
+
+
+"c_range": 5.0,
+
+
+"l_range": 34.0,
+
+
+"max_range": 105.0,
+
+
+"firerate": 850.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.26,
+
+
+"h_recoil": 0.12
+
+},
+
+"PP-2000": {
+
+
+"c_dmg": 27.5,
+
+
+"l_dmg": 13.75,
+
+
+"c_range": 5.0,
+
+
+"l_range": 32.0,
+
+
+"max_range": 99.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.12
+
+},
+
+"FN P90": {
+
+
+"c_dmg": 33.75,
+
+
+"l_dmg": 22.375,
+
+
+"c_range": 8.0,
+
+
+"l_range": 42.0,
+
+
+"max_range": 115.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.48,
+
+
+"v_recoil": 0.22,
+
+
+"h_recoil": 0.12
+
+},
+
+"HK MP5K": {
+
+
+"c_dmg": 26.875,
+
+
+"l_dmg": 16.25,
+
+
+"c_range": 8.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 99.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.16
+
+},
+
+"Tsunami": {
+
+
+"c_dmg": 26.25,
+
+
+"l_dmg": 13.5,
+
+
+"c_range": 5.0,
+
+
+"l_range": 32.0,
+
+
+"max_range": 99.0,
+
+
+"firerate": 1000.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.17
+
+},
+
+"HK UMP9": {
+
+
+"c_dmg": 31.25,
+
+
+"l_dmg": 20.75,
+
+
+"c_range": 8.0,
+
+
+"l_range": 40.0,
+
+
+"max_range": 110.0,
+
+
+"firerate": 650.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.48,
+
+
+"v_recoil": 0.28,
+
+
+"h_recoil": 0.13
+
+},
+
+"PP-91 KEDR": {
+
+
+"c_dmg": 23.125,
+
+
+"l_dmg": 11.625,
+
+
+"c_range": 5.0,
+
+
+"l_range": 32.0,
+
+
+"max_range": 95.0,
+
+
+"firerate": 800.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.17
+
+},
+
+"IMI Uzi": {
+
+
+"c_dmg": 30.75,
+
+
+"l_dmg": 17.625,
+
+
+"c_range": 8.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 100.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.15
+
+},
+
+"SR-2M Veresk": {
+
+
+"c_dmg": 33.75,
+
+
+"l_dmg": 18.125,
+
+
+"c_range": 5.0,
+
+
+"l_range": 34.0,
+
+
+"max_range": 105.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.52,
+
+
+"v_recoil": 0.34,
+
+
+"h_recoil": 0.14
+
+},
+
+"SMG Nut": {
+
+
+"c_dmg": 65.0,
+
+
+"l_dmg": 37.625,
+
+
+"c_range": 8.0,
+
+
+"l_range": 38.0,
+
+
+"max_range": 80.0,
+
+
+"firerate": 600.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.4,
+
+
+"h_recoil": 0.2
+
+},
+
+"Spectre M4": {
+
+
+"c_dmg": 35.0,
+
+
+"l_dmg": 20.625,
+
+
+"c_range": 8.0,
+
+
+"l_range": 38.0,
+
+
+"max_range": 110.0,
+
+
+"firerate": 840.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.32,
+
+
+"h_recoil": 0.18
+
+},
+
+"PP-19-01 Vityaz": {
+
+
+"c_dmg": 26.25,
+
+
+"l_dmg": 16.875,
+
+
+"c_range": 8.0,
+
+
+"l_range": 40.0,
+
+
+"max_range": 104.0,
+
+
+"firerate": 750.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.48,
+
+
+"v_recoil": 0.25,
+
+
+"h_recoil": 0.15
+
+},
+
+"TDI KRISS Vector": {
+
+
+"c_dmg": 43.75,
+
+
+"l_dmg": 26.25,
+
+
+"c_range": 8.0,
+
+
+"l_range": 36.0,
+
+
+"max_range": 110.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.2,
+
+
+"h_recoil": 0.08
+
+},
+
+"Walther MPK": {
+
+
+"c_dmg": 28.25,
+
+
+"l_dmg": 17.625,
+
+
+"c_range": 8.0,
+
+
+"l_range": 40.0,
+
+
+"max_range": 100.0,
+
+
+"firerate": 570.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.48,
+
+
+"v_recoil": 0.3,
+
+
+"h_recoil": 0.14
+
+},
+
+"AEK-919K Kashtan": {
+
+
+"c_dmg": 18.25,
+
+
+"l_dmg": 11.0,
+
+
+"c_range": 8.0,
+
+
+"l_range": 35.0,
+
+
+"max_range": 95.0,
+
+
+"firerate": 900.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.5,
+
+
+"v_recoil": 0.36,
+
+
+"h_recoil": 0.13
+
+},
+
+"PP-19 Bizon-2-01": {
+
+
+"c_dmg": 26.25,
+
+
+"l_dmg": 18.25,
+
+
+"c_range": 8.0,
+
+
+"l_range": 42.0,
+
+
+"max_range": 108.0,
+
+
+"firerate": 680.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.48,
+
+
+"v_recoil": 0.3,
+
+
+"h_recoil": 0.13
+
+}
 }
