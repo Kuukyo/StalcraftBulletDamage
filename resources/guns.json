@@ -1,5 +1,42 @@
 {
 
+"Balance": {
+
+
+"c_dmg": 32.375,
+
+
+"l_dmg": 26.25,
+
+
+"c_range": 18.0,
+
+
+"l_range": 60.0,
+
+
+"max_range": 157.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.42,
+
+
+"v_recoil": 0.25,
+
+
+"h_recoil": 0.15
+
+},
+
 "Worn HK G3A1": {
 
 
@@ -536,7 +573,7 @@
 "max_range": 155.0,
 
 
-"firerate": 750.0,
+"firerate": 800.0,
 
 
 "armorpen": 0.1,
@@ -548,7 +585,7 @@
 "spread": 0.45,
 
 
-"v_recoil": 0.35,
+"v_recoil": 0.4,
 
 
 "h_recoil": 0.25
@@ -1739,6 +1776,43 @@
 
 },
 
+"RPL-20": {
+
+
+"c_dmg": 53.75,
+
+
+"l_dmg": 38.125,
+
+
+"c_range": 10.0,
+
+
+"l_range": 54.0,
+
+
+"max_range": 170.0,
+
+
+"firerate": 700.0,
+
+
+"armorpen": 0.1,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.45,
+
+
+"v_recoil": 0.56,
+
+
+"h_recoil": 0.2
+
+},
+
 "PKP Pecheneg": {
 
 
@@ -2069,6 +2143,43 @@
 
 
 "h_recoil": 0.4
+
+},
+
+"Cobra Two-Tone": {
+
+
+"c_dmg": 150.0,
+
+
+"l_dmg": 112.5,
+
+
+"c_range": 4.0,
+
+
+"l_range": 17.0,
+
+
+"max_range": 65.0,
+
+
+"firerate": 200.0,
+
+
+"armorpen": null,
+
+
+"hs_multi": 1.25,
+
+
+"spread": 0.72,
+
+
+"v_recoil": 1.0,
+
+
+"h_recoil": 0.6
 
 },
 

@@ -17,10 +17,10 @@ def convert(item):
 
 
 guns = {}
-for root, dirs, files in os.walk("../resources/db/global/items/weapon"):
-    for folder in dirs:
-        if folder in ["device", "heavy", "melee", "_variants"]:
-            dirs.remove(folder)
+
+exclude = ["device", "heavy", "melee", "_variants"]
+for root, dirs, files in os.walk("../resources/stalcraft-database/global/items/weapon"):
+    dirs[:] = [d for d in dirs if d not in exclude]
 
     for file in files:
         if file.endswith(".json") and file != "_variants":
