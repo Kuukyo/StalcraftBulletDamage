@@ -4,9 +4,9 @@ import ttk
 import numpy as np
 
 
-guns = ["АК-15", "FAMAS G2"]
-bullet_res = 392.83
-vitality = 120
+guns = ["ASh-12", "АК-15"]
+bullet_res = 351.23
+vitality = 115
 
 for name in guns:
     weapon = gun.Gun(name)

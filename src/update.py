@@ -12,8 +12,12 @@ def convert(item):
         return 0.1
     if item == "9x39":
         return 0.2
-    if item == "Headshot damage: x1.25":
-        return 1.25
+    if item == "12.7":
+        return 0.25
+    if item == "12 caliber":
+        return 0.2
+    if item == "9 mm":
+        return 0.05
 
 
 guns = {}
