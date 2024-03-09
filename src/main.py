@@ -27,8 +27,8 @@ for name in guns:
     ax1.plot(x, y, label=name)
     ax2.plot(x, y2, label=name)
 
-ax1.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"Against {vitality} Vitality and {bullet_res} Bullet Resistance using AP Ammo")
-ax2.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"Against {vitality} Vitality and {bullet_res2} Bullet Resistance using AP Ammo")
+ax1.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"Against {vitality} Vitality and {bullet_res} Bullet Resistance")
+ax2.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"Against {vitality} Vitality and {bullet_res2} Bullet Resistance")
 
 plt.legend()
 plt.show()
