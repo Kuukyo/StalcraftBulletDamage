@@ -4,7 +4,7 @@ import ttk
 import numpy as np
 
 
-guns = ["SA-58 CTC", "АК-15"]
+guns = ["SA-58 CTC", "АК-15", "A-545"]
 bullet_res = 351.23
 bullet_res2 = 392.83
 vitality = 115
@@ -30,7 +30,8 @@ for name in guns:
 ax1.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"Against {vitality} Vitality and {bullet_res} Bullet Resistance")
 ax2.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"Against {vitality} Vitality and {bullet_res2} Bullet Resistance")
 
-plt.legend()
+ax1.legend()
+ax2.legend()
 plt.show()
 
 
