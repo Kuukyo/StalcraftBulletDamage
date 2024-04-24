@@ -4,10 +4,11 @@ import ttk
 import numpy as np
 
 
-guns = ["SA-58 CTC", "АК-15", "A-545"]
+guns = ["WA2000", "FN SCAR SSR", "VSS-M Vintorez"]
 bullet_res = 351.23
 bullet_res2 = 392.83
-vitality = 115
+vitality = 120
+max_range = 120
 
 fig, (ax1, ax2) = plt.subplots(1, 2)
 fig.suptitle('TTK of Guns +15 using AP ammo')
@@ -16,7 +17,7 @@ for name in guns:
     weapon = gun.Gun(name)
     ttkc = ttk.TTKCalculator(weapon, vitality, bullet_res, True, "ceramic")
     ttkc2 = ttk.TTKCalculator(weapon, vitality, bullet_res2, True, "ceramic")
-    x = np.arange(150)
+    x = np.arange(max_range)
     y = []
     y2 = []
 
@@ -33,5 +34,3 @@ ax2.set(xlabel="Distance In Meters", ylabel="Time To Kill In Seconds", title=f"A
 ax1.legend()
 ax2.legend()
 plt.show()
-
-

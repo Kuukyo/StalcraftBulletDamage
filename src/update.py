@@ -23,7 +23,7 @@ def convert(item):
 guns = {}
 
 exclude = ["device", "heavy", "melee", "_variants"]
-for root, dirs, files in os.walk("../resources/stalcraft-database/global/items/weapon"):
+for root, dirs, files in os.walk("../resources/stalcraft-database/ru/items/weapon"):
     dirs[:] = [d for d in dirs if d not in exclude]
 
     for file in files:
